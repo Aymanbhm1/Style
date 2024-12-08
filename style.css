@@ -1,5 +1,4 @@
-  <style>
-    body {
+   body {
       margin: 0;
       font-family: Arial, sans-serif;
       background:url('https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7NWn-rnqUkdMKnDYfV5U3x2pzRXs2H_3vwFyrEIzaA4OwBzTaNbU0BwelIhUaaFZcrjhhy5a6yCX1GpHs-u-zh470iYxqqshPO4s7o_Ashx0BB66uYMUfSTNQXFR7Mms7lPHGhK3jyGknnxWJ752TWbOFlcgvIIrB5GRXUxLXAysb-EJXgH4-_zSrL8I/s3464/Picsart_24-12-08_00-36-57-064.jpg') ;
@@ -213,8 +212,6 @@ width: 100%; /* عرض الشاشة بالكامل */
       font-size: 34px;
       display: none;
     }
-  </style>
-<style>
 /* زر القائمة */
 .dropbtn {
   position: fixed;
@@ -316,4 +313,4 @@ ul .logo{
        font-size: 22px;
        border-bottom: 1px solid #2b2b2b;
      }
-</style>
+     }
